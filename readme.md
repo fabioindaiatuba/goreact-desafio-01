@@ -4,6 +4,7 @@
 
 ### Funções
 
+* Configuração de pacotes e arquivos .babelrc e webpack.config.js
 * Criação de components react.
 * Tipagem com prot-types.
 * Props e state.
