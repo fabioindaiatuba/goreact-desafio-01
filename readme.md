@@ -1,6 +1,6 @@
 # Desafio Módulo 01 - GoReact
 
-![imagem com a tela do sistema](https://github.com/fabioindaiatuba/goreact-desafio-01/raw/master/telas/tela1.png)
+![imagem com a tela do sistema](https://github.com/fabioindaiatuba/goreact-desafio-01/raw/master/snapshots/tela1.png)
 
 ## Funções
 
